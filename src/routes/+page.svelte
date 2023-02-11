@@ -1,5 +1,5 @@
 <div class="flex items-center justify-center text-blue-700 h-screen">
-    <h1 class="text-6xl font-bold">Hello, World!</h1>
+    <h1 class="text-6xl font-bold">Hello there</h1>
   </div>
 
 <style lang="postcss">
